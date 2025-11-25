@@ -1,0 +1,26 @@
+1. ai
+ - RAG 
+   - knowledge
+     - incident (number, create date, resolve date, short desc, issue decription, root cause, resolution)
+	 - application workflow (flow name, running server, SourceQmgr,SourceQueue,
+	 SourceSftpServer,SourceSftpPort,SourceSftpUser,SourceSftpSSHKey,SourceSftpPath,SourceSftpFilePattern,
+	 SourceFilePath, SourceFilePattern)
+	 
+   - workaround mgmt service
+     - pre-check
+	 - execution
+	 - audit log
+
+2. user role
+  - admin
+  - manager
+  - support
+  - developer
+
+
+3. agent
+ - collect
+   - app process xml
+ - execution 
+ 
+4. database(postgresql - docker)
